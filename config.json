@@ -1,0 +1,57 @@
+{
+    "source_path": "D:/Extraction/source",
+    "file_path": "D:/pythonProjectTest/ausgabe/Stundenübersicht.xlsx",
+    "error_path": "D:/pythonProjectTest/fehlermeldungen",
+    "// INFO ": "koststellennummer_aus ist by default 'den_feldern_links', man kann es zu irgendwas ändern, wenn man aus den Stundenzettel lesen möchte",
+    "// INFO": "Hier drunter könnt ihr die Adresse der Spalten und Zeilen ändern, wenn man neues hinzufügen möchte",
+    "max_laenge_kostenstelle": 8,
+    "version": 1.2,
+    "positionen": {
+        "Nachname": "K11",
+        "Koststelle": [
+            "D25",
+            "F25",
+            "H25",
+            "J25",
+            "L25",
+            "N25",
+            "P25",
+            "R25"
+        ],
+        "MontagDatum": "K9",
+        "INFO": "Hier sind die 2 spalten für Arbeitszeit",
+        "Arbeitszeit": [
+            [
+                "Z25",
+                "AD25"
+            ],
+            [
+                "AF25",
+                "AJ25"
+            ],
+            [
+                "AL25",
+                "AP25"
+            ],
+            [
+                "AR25",
+                "AV25"
+            ],
+            [
+                "AX25",
+                "BB25"
+            ],
+            [
+                "BD25",
+                "BH25"
+            ],
+            [
+                "BJ25",
+                "BN25"
+            ]
+        ]
+    },
+    "data": [],
+    "meldungen": [],
+    "notexisting": []
+}
